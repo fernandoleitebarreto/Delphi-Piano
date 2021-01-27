@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/08/10 20:10:31.000.233,=D:\Sistemas\Delphi\Class\Unit1.pas</Transaction>
+    <Transaction>2020/08/10 20:10:44.000.836,D:\Sistemas\Delphi\Class\Unit1.dfm=D:\Sistemas\Delphi\Delphi Tips\#8 - Piano\MyPiano.dfm</Transaction>
+    <Transaction>2020/08/10 20:10:44.000.836,D:\Sistemas\Delphi\Class\Unit1.pas=D:\Sistemas\Delphi\Delphi Tips\#8 - Piano\MyPiano.pas</Transaction>
+    <Transaction>2020/08/10 20:15:02.000.822,D:\Sistemas\Delphi\Class\Project1.dproj=D:\Sistemas\Delphi\Delphi Tips\#8 - Piano\MyPianoProject.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/08/10 20:05:05.000.214,=rtl.dcp</Transaction>
+    <Transaction>2020/08/10 20:05:39.000.403,D:\Sistemas\Delphi\Delphi Tips\#8 - Piano\Piano.dproj=D:\Sistemas\Delphi\Class\Package1.dproj</Transaction>
+    <Transaction>2020/08/10 20:07:14.000.787,=vcl.dcp</Transaction>
+    <Transaction>2020/08/10 20:07:14.000.770,=D:\Sistemas\Delphi\Delphi Tips\#8 - Piano\Piano.pas</Transaction>
+  </Transactions>
+</BorlandProject>
